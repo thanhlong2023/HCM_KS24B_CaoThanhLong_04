@@ -1,16 +1,5 @@
 #include <bits/stdc++.h>
-/*
-1. Nhập số phần tử và giá trị cho mảng
-2. In ra giá trị các phần tử trong mảng theo dạng (arr[0] = 1, arr[1] = 5 …)
-3. Đếm số lượng các số hoàn hảo có trong mảng. Biết số hoàn hảo là số có tổng các ước bằng chính nó
-4. Tìm giá trị lớn thứ 2 trong mảng, không được sắp xếp mảng
-5. Thêm một phần tử vào vị trí ngẫu nhiên trong  mảng, phần tử mới thêm vào mảng và vị trí thêm vào phải do người dùng nhập vào
-6. Xóa phần tử tại một vị trí cụ thể (người dùng nhập vị trí)
-7. Sắp xếp mảng theo thứ tự tăng dần (Insertion sort)
-8. Cho người dùng nhập vào một phần tử, tìm kiếm xem phần tử đó có tồn tại trong mảng hay không (Binary search)
-9. Sắp xếp lại mảng và hiển thị ra toàn bộ phần tử có trong mảng sao cho toàn bộ số chẵn đứng trước, số lẻ đứng sau
-10. Đảo ngược thứ tự của các phần tử có trong mảng
-*/
+
 int arr[1000];
 int main()
 {
@@ -361,3 +350,4 @@ int main()
         printf("\n");
     }
 }
+// <3
